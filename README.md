@@ -6,11 +6,10 @@ This is an official pytorch implementation of the  paper
  
 
 ## Notes
+![Figure1_Camera_JPG](https://github.com/hyeongyu-kim/SDC-UDA/assets/77005104/af5da0a7-c72a-41a2-aded-44bb7df45ed9)
 
-Our framework consists of two steps, 1.
-
-
-
+Our framework consists of two steps, 1) Image translation and 2) Self-training. In this repository, only step 1 is supported. 
+*And we are currently building on it!
 
 ## Requirements
 
@@ -47,4 +46,12 @@ Cardiac (MMWHS) : https://zmiclab.github.io/zxh/0/mmwhs/
 python train.py
 ```
 
+## Logs
 
+You can check the status using 
+
+```
+tensorboard --logdir tensorboard/<Your_Experiment_Name>
+```
+
+and your checkpoint is saved at /checkpoints.
