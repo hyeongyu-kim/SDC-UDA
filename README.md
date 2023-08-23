@@ -2,7 +2,16 @@
 
 This is an official pytorch implementation of the  paper 
 
-## [SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_SDC-UDA_Volumetric_Unsupervised_Domain_Adaptation_Framework_for_Slice-Direction_Continuous_Cross-Modality_CVPR_2023_paper.pdf) ### by Hyungseob Shin∗ Hyeongyu Kim∗ Sewon Kim,Yohan Jun,Taejoon Eo and Dosik Hwang. 
+## [SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_SDC-UDA_Volumetric_Unsupervised_Domain_Adaptation_Framework_for_Slice-Direction_Continuous_Cross-Modality_CVPR_2023_paper.pdf)
+
+by Hyungseob Shin∗, Hyeongyu Kim∗, Sewon Kim, Yohan Jun, Taejoon Eo and Dosik Hwang. 
+
+## Notes
+
+Our framework consists of two steps, 1.
+
+
+
 
 ## Requirements
 
@@ -28,8 +37,15 @@ Information about the packages will be updated!)
 
 You need to modify the data and fit to datalist format provided. We splitted 3D medcial data to every single slice with file, for efficient loading.
 
+The dataset used for training can be downloaded here for each.
+
+CrossMoDA (Vestibular and schwannoma) : https://crossmoda-challenge.ml/
+Cardiac (MMWHS) : https://zmiclab.github.io/zxh/0/mmwhs/
+
 ## Training
 
-'''
+```
 python train.py
-'''
+```
+
+
