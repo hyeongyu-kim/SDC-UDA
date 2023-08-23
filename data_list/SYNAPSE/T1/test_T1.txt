@@ -1,0 +1,4 @@
+./data/SYNAPSE/T1/test/img/t1dual_31_image.nii.gz
+./data/SYNAPSE/T1/test/img/t1dual_5_image.nii.gz
+./data/SYNAPSE/T1/test/img/t1dual_10_image.nii.gz
+./data/SYNAPSE/T1/test/img/t1dual_34_image.nii.gz

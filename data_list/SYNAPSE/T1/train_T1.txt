@@ -1,0 +1,16 @@
+./data/SYNAPSE/T1/train/img/t1dual_37_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_33_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_3_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_20_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_2_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_22_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_38_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_13_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_39_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_36_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_8_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_32_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_19_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_15_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_21_image.nii.gz
+./data/SYNAPSE/T1/train/img/t1dual_1_image.nii.gz

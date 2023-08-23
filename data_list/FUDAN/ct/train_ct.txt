@@ -1,0 +1,16 @@
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1009_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1001_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1006_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1007_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1005_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1004_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1010_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1019_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1013_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1017_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1012_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1011_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1016_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1002_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1015_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/train/img/ct_train_1018_image.nii.gz

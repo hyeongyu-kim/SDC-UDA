@@ -1,0 +1,4 @@
+./data/FUDAN_aligned/ct_train_aligned_new_gz/test/img/ct_train_1003_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/test/img/ct_train_1008_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/test/img/ct_train_1014_image.nii.gz
+./data/FUDAN_aligned/ct_train_aligned_new_gz/test/img/ct_train_1020_image.nii.gz

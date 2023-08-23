@@ -1,0 +1,6 @@
+./data/SYNAPSE/CT/test/img/img0021.nii.gz
+./data/SYNAPSE/CT/test/img/img0026.nii.gz
+./data/SYNAPSE/CT/test/img/img0002.nii.gz
+./data/SYNAPSE/CT/test/img/img0035.nii.gz
+./data/SYNAPSE/CT/test/img/img0038.nii.gz
+./data/SYNAPSE/CT/test/img/img0030.nii.gz

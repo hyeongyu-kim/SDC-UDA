@@ -1,0 +1,4 @@
+./data/SYNAPSE/T2/test/img/t2spir_31_image.nii.gz
+./data/SYNAPSE/T2/test/img/t2spir_10_image.nii.gz
+./data/SYNAPSE/T2/test/img/t2spir_34_image.nii.gz
+./data/SYNAPSE/T2/test/img/t2spir_5_image.nii.gz

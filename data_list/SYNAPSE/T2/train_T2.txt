@@ -1,0 +1,16 @@
+./data/SYNAPSE/T2/train/img/t2spir_15_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_2_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_19_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_38_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_22_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_21_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_33_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_32_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_13_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_20_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_36_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_8_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_37_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_1_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_39_image.nii.gz
+./data/SYNAPSE/T2/train/img/t2spir_3_image.nii.gz
