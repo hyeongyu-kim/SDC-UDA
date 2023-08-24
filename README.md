@@ -65,4 +65,4 @@ https://github.com/Seung-Hun-Lee/DRANet
 
 https://github.com/lucidrains/segformer-pytorch 
 
-and about the nnU-Net part with Sensitivity & Specificity aware postprocessing is to be updated!
+and about the nnU-Net part with Sensitivity & Specificity aware pseudo-label refinement algorithm is to be updated!
