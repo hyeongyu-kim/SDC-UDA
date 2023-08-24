@@ -56,3 +56,11 @@ tensorboard --logdir tensorboard/<Your_Experiment_Name>
 ```
 
 and your checkpoint is saved at /checkpoints.
+
+## Comments
+
+This code was partially borrowed by 
+https://github.com/Seung-Hun-Lee/DRANet
+https://github.com/lucidrains/segformer-pytorch
+
+and about the nnU-Net part with Sensitivity & Specificity aware postprocessing is to be updated!
